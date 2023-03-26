@@ -10,5 +10,5 @@
 
 ⚡️ Fun fact: I love futuristhic technology, for example, AI, robots, periphericals, gaming pc's, architecture, etc.
 
-🐉 Matter of fact, i'm an Appple Fanboy sjjsjsj 
+🐉 Matter of fact, i'm an Apple Fanboy sjjsjsj 
 
