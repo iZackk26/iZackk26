@@ -12,3 +12,5 @@
 
 🐉 Matter of fact, i'm an Apple Fanboy sjjsjsj 
 
+## 🛠 Skills
+HTML, Python
