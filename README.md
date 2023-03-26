@@ -4,7 +4,7 @@
 
 🧠 I'm currently learning Python, 3D printing
 
-💬 Ask me about Technology, Appple, PC builds and building, Hypebeast
+💬 Ask me about Technology, Apple, PC builds and building, Hypebeast
 
 📫 How to reach me: newxstorecr@gmail.com
 
