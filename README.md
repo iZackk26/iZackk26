@@ -2,7 +2,7 @@
 ## Hey what's up, I'm iZack
 👩‍💻 I'm currently studying Computer Science
 
-🧠 I'm currently learning Python, 3D printing
+🧠 I'm currently learning Python, 3D printing, C++
 
 💬 Ask me about Technology, Apple, PC builds and building, Hypebeast
 
@@ -13,4 +13,4 @@
 🐉 Matter of fact, i'm an Apple Fanboy sjjsjsj 
 
 ## 🛠 Skills
-HTML, Python
+HTML, Python, C++, LaTex
