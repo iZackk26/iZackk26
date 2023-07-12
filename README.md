@@ -2,9 +2,9 @@
 ## Hey what's up, I'm iZack
 👩‍💻 I'm currently studying Computer Science
 
-🧠 I'm currently learning Python, 3D printing, C++
+🧠 I'm currently learning C++, Java and other stuff
 
-💬 Ask me about Technology, Apple, PC builds and building, Hypebeast
+💬 Ask me about tech, new trends, pc building, programming, etc
 
 📫 How to reach me: newxstorecr@gmail.com
 
