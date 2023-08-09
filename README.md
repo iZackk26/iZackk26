@@ -25,19 +25,62 @@ Feel free to explore my repository to delve deeper into my projects and technolo
 ---
 
 ## 🧰 Languages and Tools
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align = "left" alt= "C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Go" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-<img align="left" alt="Lua" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-<img align="left" alt="GoogleCloud" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-<img align="left" alt="PremierPro" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
-<img align="left" alt="Latex" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
-<img align="left" alt="UE" width="30px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
-<br />
+<!-- Linux -->
+<a href="https://en.wikipedia.org/wiki/Linux" target="_blank">
+  <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+</a>
 
+<!-- Vim -->
+<a href="https://www.vim.org/" target="_blank">
+  <img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+</a>
+
+<!-- Python -->
+<a href="https://www.python.org/" target="_blank">
+  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+</a>
+
+<!-- C++ -->
+<a href="https://www.cplusplus.com/" target="_blank">
+  <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+</a>
+
+<!-- Go -->
+<a href="https://golang.org/" target="_blank">
+  <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+</a>
+
+<!-- Lua -->
+<a href="https://www.lua.org/" target="_blank">
+  <img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
+</a>
+
+<!-- Git -->
+<a href="https://git-scm.com/" target="_blank">
+  <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+</a>
+
+<!-- Google Cloud -->
+<a href="https://cloud.google.com/" target="_blank">
+  <img align="left" alt="Google Cloud" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+</a>
+
+<!-- Premiere Pro -->
+<a href="https://www.adobe.com/products/premiere.html" target="_blank">
+  <img align="left" alt="Premiere Pro" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
+</a>
+
+<!-- LaTeX -->
+<a href="https://www.latex-project.org/" target="_blank">
+  <img align="left" alt="LaTeX" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
+</a>
+
+<!-- Unreal Engine -->
+<a href="https://www.unrealengine.com/" target="_blank">
+  <img align="left" alt="Unreal Engine" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
+</a>
+
+<br />
 #       
           
           
