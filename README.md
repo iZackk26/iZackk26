@@ -81,7 +81,46 @@ Feel free to explore my repository to delve deeper into my projects and technolo
 </a>
 
 <br /> 
-          
-          
-          
-          
+<br /> 
+<br /> 
+<h3 align="left">
+  <img
+    align="center"
+    alt="Github"
+    width="20"
+    style="vertical-align: middle; margin-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+  />
+  Github Stats
+</h3>
+
+<!-- Clear Float -->
+<div style="clear: both;"></div>
+
+<!-- Github stats and most used languages -->
+<div align="center"> 
+  <a href="https://github.com/iZackk26">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=iZackk26&show_icons=true&theme=tokyonight=contribs,prs&rank_icon=github"
+      alt="My Github stats"
+      height="150"
+    />
+  </a>
+  <a href="https://github.com/iZackk26">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=iZackk26&hide_progress=true&theme=tokyonight"
+      alt="My Language stats"
+      height="150"
+    />
+  </a>
+</div>
+<!-- Streak stats -->
+<div align="center">
+  <a href="https://github.com/iZackk26#gh-dark-mode-only">
+    <img
+       src="https://streak-stats.demolab.com/?user=iZackk26&background=2E3440&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=81A1C1&ring=81A1C1&locale=en&type=svg&hide_border=true"
+       alt="My GitHub streak stats"
+       height="150"
+     />
+  </a>
+</div>
