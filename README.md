@@ -25,60 +25,60 @@ Feel free to explore my repository to delve deeper into my projects and technolo
 ---
 
 ## 🧰 Languages and Tools
-<!-- Linux -->
-<a href="https://en.wikipedia.org/wiki/Linux" target="_blank">
-  <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-</a>
 
-<!-- Vim -->
-<a href="https://www.vim.org/" target="_blank">
-  <img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-</a>
-
-<!-- Python -->
-<a href="https://www.python.org/" target="_blank">
-  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-</a>
-
+<!-- After Effects -->
+<a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
+  <img align="left" alt="After Effects" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AfterEffects.svg" />
+<!-- Blender -->
+<a href="https://www.blender.org/" target="_blank">
+  <img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" />
+<!-- C -->
+<a href="https://learn.microsoft.com/en-us/cpp/c-language/c-language-reference?view=msvc-170" target="_blank">
+  <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" />
 <!-- C++ -->
 <a href="https://www.cplusplus.com/" target="_blank">
-  <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-</a>
-
-<!-- Go -->
-<a href="https://golang.org/" target="_blank">
-  <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-</a>
-
-<!-- Lua -->
-<a href="https://www.lua.org/" target="_blank">
-  <img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
-</a>
-
+  <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" />
+<!-- Firebase -->
+<a href="https://firebase.google.com/" target="_blank">
+  <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" />
 <!-- Git -->
 <a href="https://git-scm.com/" target="_blank">
-  <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-</a>
-
+  <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" />
+<!-- Go -->
+<a href="https://golang.org/" target="_blank">
+  <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" />
 <!-- Google Cloud -->
 <a href="https://cloud.google.com/" target="_blank">
-  <img align="left" alt="Google Cloud" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-</a>
-
-<!-- Premiere Pro -->
-<a href="https://www.adobe.com/products/premiere.html" target="_blank">
-  <img align="left" alt="Premiere Pro" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
-</a>
-
+  <img align="left" alt="Google Cloud" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg" />
 <!-- LaTeX -->
 <a href="https://www.latex-project.org/" target="_blank">
-  <img align="left" alt="LaTeX" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
-</a>
-
+  <img align="left" alt="LaTeX" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Dark.svg" />
+<!-- Linux -->
+<a href="https://en.wikipedia.org/wiki/Linux" target="_blank">
+  <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" />
+<!-- Lua -->
+<a href="https://www.lua.org/" target="_blank">
+  <img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg" />
+<!-- Markdown -->
+<a href="https://www.markdownguide.org/" target="_blank">
+  <img align="left" alt="Markdown" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" />
+<!-- Premiere Pro -->
+<a href="https://www.adobe.com/products/premiere.html" target="_blank">
+  <img align="left" alt="Premiere Pro" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Premiere.svg" />
+<!-- Python -->
+<a href="https://www.python.org/" target="_blank">
+  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />
 <!-- Unreal Engine -->
 <a href="https://www.unrealengine.com/" target="_blank">
-  <img align="left" alt="Unreal Engine" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
+  <img align="left" alt="Unreal Engine" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/UnrealEngine.svg" />
+<!-- Vim -->
+<a href="https://www.vim.org/" target="_blank">
+  <img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NeoVim-Dark.svg" />
+  
 </a>
+
+
+
 
 <br /> 
 <br /> 
