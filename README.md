@@ -50,6 +50,11 @@ Feel free to explore my repository to delve deeper into my projects and technolo
 <!-- Google Cloud -->
 <a href="https://cloud.google.com/" target="_blank">
   <img align="left" alt="Google Cloud" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg" />
+
+  <!-- Java -->
+<a href="https://www.java.com/" target="_blank">
+  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" />
+
 <!-- LaTeX -->
 <a href="https://www.latex-project.org/" target="_blank">
   <img align="left" alt="LaTeX" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Dark.svg" />
