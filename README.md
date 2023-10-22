@@ -79,7 +79,9 @@ Feel free to explore my repository to delve deeper into my projects and technolo
 <!-- Vim -->
 <a href="https://www.vim.org/" target="_blank">
   <img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NeoVim-Dark.svg" />
-  
+  <!-- Javascript -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank">
+  <img align="left" alt="JS" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
 </a>
 
 
