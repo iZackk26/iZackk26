@@ -82,6 +82,9 @@ Feel free to explore my repository to delve deeper into my projects and technolo
   <!-- Javascript -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank">
   <img align="left" alt="JS" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
+  <!-- Html -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
 </a>
 
 
