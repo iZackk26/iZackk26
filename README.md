@@ -86,6 +86,12 @@ Feel free to explore my repository to delve deeper into my projects and technolo
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
 </a>
+<a href="https://vuejs.org/" target="_blank">
+  <img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" />
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank">
+  <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
+</a>
 
 
 
