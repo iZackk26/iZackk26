@@ -124,7 +124,7 @@ Feel free to explore my repository to delve deeper into my projects and technolo
   </a>
   <a href="https://github.com/iZackk26">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=izackk26&layout=compact&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=izackk26&langs_count=10&layout=compact&theme=tokyonight"
       alt="My Language stats"
       height="150"
     />
