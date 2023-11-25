@@ -117,14 +117,14 @@ Feel free to explore my repository to delve deeper into my projects and technolo
 <div align="center"> 
   <a href="https://github.com/iZackk26">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=iZackk26&show_icons=true&theme=tokyonight=contribs,prs&rank_icon=github"
+      src="https://github-readme-stats-beryl-rho.vercel.app/api?username=iZackk26&show_icons=true&theme=tokyonight=contribs,prs&rank_icon=github"
       alt="My Github stats"
       height="150"
     />
   </a>
   <a href="https://github.com/iZackk26">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=iZackk26&hide_progress=true&theme=tokyonight"
+      src="github-readme-stats-beryl-rho.vercel.app/api/top-langs/?username=iZackk26&hide_progress=true&theme=tokyonight"
       alt="My Language stats"
       height="150"
     />
