@@ -126,7 +126,7 @@ Feel free to explore my repository to delve deeper into my projects and technolo
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=izackk26&langs_count=6&layout=pie&theme=tokyonight"
       alt="My Language stats"
-      height="300"
+      height="225"
     />
   </a>
 </div>
