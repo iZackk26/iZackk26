@@ -128,3 +128,21 @@ Thank you for being here. I hope you like all my projects and other stuff. I am 
   <img align="center" alt="Github" width="20" style="vertical-align: middle; margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
   Github Stats
 </h3>
+
+<!-- Github stats and most used languages -->
+<div align="center"> 
+  <a href="https://github.com/iZackk26">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=iZackk26&show_icons=true&theme=nord&hide=contribs,prs&rank_icon=github"
+      alt="My Github stats"
+      height="150"
+    />
+  </a>
+  <a href="https://github.com/iZackk26">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=iZackk26&hide_progress=true&theme=nord"
+      alt="My Language stats"
+      height="150"
+    />
+  </a>
+</div>
