@@ -91,7 +91,7 @@ Thank you for being here. I hope you like all my projects and other stuff. I am 
 
 <!-- Node.js -->
 <a href="https://nodejs.org/" target="_blank">
-  <img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="URL_DE_LA_IMAGEN_DE_NODEJS" />
+  <img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" />
 </a>
 
 <!-- Premiere Pro -->
