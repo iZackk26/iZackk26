@@ -27,111 +27,117 @@ Thank you for being here. I hope you like all my projects and other stuff. I am 
 
 <!-- After Effects -->
 <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
-  <img align="left" alt="After Effects" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AfterEffects.svg" />
+  <img align="left" alt="After Effects" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AfterEffects.svg" />
 
 <!-- Blender -->
 <a href="https://www.blender.org/" target="_blank">
-  <img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" />
+  <img align="left" alt="Blender" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" />
 
 <!-- C -->
 <a href="https://learn.microsoft.com/en-us/cpp/c-language/c-language-reference?view=msvc-170" target="_blank">
-  <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" />
+  <img align="left" alt="C" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" />
 
 <!-- C++ -->
 <a href="https://www.cplusplus.com/" target="_blank">
-  <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" />
+  <img align="left" alt="C++" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" />
 
 <!-- CSS -->
 <a href="https://www.w3schools.com/css/" target="_blank">
-  <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
+  <img align="left" alt="CSS" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
 
 <!-- Firebase -->
 <a href="https://firebase.google.com/" target="_blank">
-  <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" />
+  <img align="left" alt="Firebase" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" />
 
 <!-- Git -->
 <a href="https://git-scm.com/" target="_blank">
-  <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" />
+  <img align="left" alt="Git" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" />
 
 <!-- Go -->
 <a href="https://golang.org/" target="_blank">
-  <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" />
+  <img align="left" alt="Go" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" />
 
 <!-- Google Cloud -->
 <a href="https://cloud.google.com/" target="_blank">
-  <img align="left" alt="Google Cloud" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg" />
+  <img align="left" alt="Google Cloud" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg" />
 
 <!-- HTML -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
+  <img align="left" alt="HTML" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
 
 <!-- Java -->
 <a href="https://www.java.com/" target="_blank">
-  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" />
+  <img align="left" alt="Java" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" />
 
 <!-- JavaScript -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank">
-  <img align="left" alt="JS" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
+  <img align="left" alt="JS" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
 
 <!-- LaTeX -->
 <a href="https://www.latex-project.org/" target="_blank">
-  <img align="left" alt="LaTeX" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Dark.svg" />
+  <img align="left" alt="LaTeX" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Dark.svg" />
 
 <!-- Linux -->
 <a href="https://en.wikipedia.org/wiki/Linux" target="_blank">
-  <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" />
+  <img align="left" alt="Linux" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" />
 
 <!-- Lua -->
 <a href="https://www.lua.org/" target="_blank">
-  <img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg" />
+  <img align="left" alt="Lua" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg" />
 
 <!-- Markdown -->
 <a href="https://www.markdownguide.org/" target="_blank">
-  <img align="left" alt="Markdown" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" />
+  <img align="left" alt="Markdown" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" />
 
 <!-- Node.js -->
 <a href="https://nodejs.org/" target="_blank">
-  <img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" />
+  <img align="left" alt="Node.js" width="33px" style="padding-right:13px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" />
 </a>
 
 <!-- Premiere Pro -->
 <a href="https://www.adobe.com/products/premiere.html" target="_blank">
-  <img align="left" alt="Premiere Pro" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Premiere.svg" />
+  <img align="left" alt="Premiere Pro" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Premiere.svg" />
 
 <!-- Python -->
 <a href="https://www.python.org/" target="_blank">
-  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />
+  <img align="left" alt="Python" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />
 
-<!-- Rust --->
+<!-- Rust -->
 <a href="https://www.rust-lang.org/" target="_blank">
-  <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg" />
+  <img align="left" alt="Rust" width="33px" style="padding-right:13px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg" />
 </a>
 
 <!-- Unreal Engine -->
 <a href="https://www.unrealengine.com/" target="_blank">
-  <img align="left" alt="Unreal Engine" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/UnrealEngine.svg" />
+  <img align="left" alt="Unreal Engine" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/UnrealEngine.svg" />
 
 <!-- Vim -->
 <a href="https://www.vim.org/" target="_blank">
-  <img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NeoVim-Dark.svg" />
+  <img align="left" alt="Vim" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NeoVim-Dark.svg" />
 
 <!-- VueJS -->
 <a href="https://vuejs.org/" target="_blank">
-  <img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" />
+  <img align="left" alt="Vue" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" />
+</a>
+
 <!-- Apple -->
 <a href="https://apple.com" target="_blank">
-  <img align="left" alt="Apple" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apple-Dark.svg" />
+  <img align="left" alt="Apple" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apple-Dark.svg" />
+</a>
+
 <!-- Arch -->
 <a href="https://archlinux.org/" target="_blank">
-  <img align="left" alt="Arch" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arch-Dark.svg" />
+  <img align="left" alt="Arch" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arch-Dark.svg" />
+</a>
 
 <!-- Astro -->
 <a href="https://astro.build/" target="_blank">
-  <img align="left" alt="Astro" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Astro.svg" />
+  <img align="left" alt="Astro" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Astro.svg" />
+</a>
 
 <!-- Bootstrap -->
 <a href="https://getbootstrap.com/" target="_blank">
-  <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" />
+  <img align="left" alt="Bootstrap" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" />
 </a>
 
 <br />
