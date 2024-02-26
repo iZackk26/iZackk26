@@ -118,6 +118,20 @@ Thank you for being here. I hope you like all my projects and other stuff. I am 
 <!-- VueJS -->
 <a href="https://vuejs.org/" target="_blank">
   <img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" />
+<!-- Apple -->
+<a href="https://apple.com" target="_blank">
+  <img align="left" alt="Apple" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apple-Dark.svg" />
+<!-- Arch -->
+<a href="https://archlinux.org/" target="_blank">
+  <img align="left" alt="Arch" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arch-Dark.svg" />
+
+<!-- Astro -->
+<a href="https://astro.build/" target="_blank">
+  <img align="left" alt="Astro" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Astro.svg" />
+
+<!-- Bootstrap -->
+<a href="https://getbootstrap.com/" target="_blank">
+  <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" />
 </a>
 
 <br />
