@@ -189,7 +189,7 @@ Thank you for being here. I hope you like all my projects and other stuff. I am 
 </h3>
 
 <!-- Github stats and most used languages -->
-<div align="center"> 
+<div align="center" style="margin-top: 3cm;"> 
   <a href="https://github.com/iZackk26">
     <img
       src="https://github-readme-stats.vercel.app/api?username=iZackk26&show_icons=true&theme=nord&hide=contribs,prs&rank_icon=github"
