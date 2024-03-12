@@ -186,7 +186,7 @@ Thank you for being here. I hope you like all my projects and other stuff. I am 
 <br />
 
 <h3 align="left" style="margin-top: 3cm;">
-  <img align="center" alt="Github" width="20" style="vertical-align: middle; margin-right: 10px;" src="https://drive.google.com/uc?export=download&id=1wSA7WB4zwPZs0BgTltLgm4OrSJ-NxWNC"/>
+  <img align="center" alt="Github" width="20" style="vertical-align: middle; margin-right: 10px;" src="https://static-00.iconduck.com/assets.00/github-icon-512x512-tt41tgu3.png"/>
   Github Stats
 </h3>
 
