@@ -29,6 +29,10 @@ Thank you for being here. I hope you like all my projects and other stuff. I am 
 <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
   <img align="left" alt="After Effects" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AfterEffects.svg" />
 
+  <!-- Arduino -->
+<a href="https://www.arduino.cc" target="_blank">
+  <img align="left" alt="After Effects" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" />
+
 <!-- Blender -->
 <a href="https://www.blender.org/" target="_blank">
   <img align="left" alt="Blender" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" />
@@ -45,9 +49,21 @@ Thank you for being here. I hope you like all my projects and other stuff. I am 
 <a href="https://www.w3schools.com/css/" target="_blank">
   <img align="left" alt="CSS" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
 
+<!-- OpenCV -->
+<a href="https://opencv.org" target="_blank">
+  <img align="left" alt="CSS" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenCV-Dark.svg" />
+
+  <!-- Discord -->
+<a href="https://discord.com" target="_blank">
+  <img align="left" alt="CSS" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" />
+  
 <!-- Firebase -->
 <a href="https://firebase.google.com/" target="_blank">
   <img align="left" alt="Firebase" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" />
+
+<!-- Figma -->
+<a href="https://www.figma.com" target="_blank">
+  <img align="left" alt="Firebase" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" />
 
 <!-- Git -->
 <a href="https://git-scm.com/" target="_blank">
@@ -94,6 +110,11 @@ Thank you for being here. I hope you like all my projects and other stuff. I am 
   <img align="left" alt="Node.js" width="33px" style="padding-right:13px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" />
 </a>
 
+<!-- Notion -->
+<a href="https://www.notion.so/" target="_blank">
+  <img align="left" alt="Node.js" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg" />
+</a>
+
 <!-- Premiere Pro -->
 <a href="https://www.adobe.com/products/premiere.html" target="_blank">
   <img align="left" alt="Premiere Pro" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Premiere.svg" />
@@ -102,9 +123,27 @@ Thank you for being here. I hope you like all my projects and other stuff. I am 
 <a href="https://www.python.org/" target="_blank">
   <img align="left" alt="Python" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />
 
+  <!-- Pytorch -->
+<a href="https://pytorch.org" target="_blank">
+  <img align="left" alt="Python" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg" />
+
+    <!-- QT -->
+<a href="https://www.qt.io" target="_blank">
+  <img align="left" alt="Python" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/QT-Dark.svg" />
+
 <!-- Rust -->
 <a href="https://www.rust-lang.org/" target="_blank">
   <img align="left" alt="Rust" width="33px" style="padding-right:13px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg" />
+</a>
+
+<!-- Raspberrypi -->
+<a href="https://www.raspberrypi.com" target="_blank">
+  <img align="left" alt="Rust" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/RaspberryPi-Dark.svg" />
+</a>
+
+<!-- Ruby -->
+<a href="https://www.ruby-lang.org/es/" target="_blank">
+  <img align="left" alt="Rust" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ruby.svg" />
 </a>
 
 <!-- Unreal Engine -->
