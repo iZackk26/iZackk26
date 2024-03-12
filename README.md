@@ -7,9 +7,9 @@ Thank you for being here. I hope you like all my projects and other stuff. I am 
 - I love to learn new things such as new programming languages, new trends, and I love to build computers and buy expensive stuff (Not very common).
 - Feel free to visit my WebPage that is in process [WebPage Here!](https://izackk26.github.io)
 
-## Contant Information
+## Contact Information
 
-- I'm available at this mail [izackk26@icloud.com](mailto:izackk26@icloud.com) for any inquiries, discussions or potential collaborations fell free to contact with me.
+- I'm available at this mail [izackk26@icloud.com](mailto:izackk26@icloud.com) fell free, discussions or potential collaborations fell free to contact with me.
 
 ## Fun Facts about me
 
@@ -127,7 +127,7 @@ Thank you for being here. I hope you like all my projects and other stuff. I am 
 <a href="https://pytorch.org" target="_blank">
   <img align="left" alt="Python" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg" />
 
-    <!-- QT -->
+<!-- QT -->
 <a href="https://www.qt.io" target="_blank">
   <img align="left" alt="Python" width="33px" style="padding-right:13px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/QT-Dark.svg" />
 
