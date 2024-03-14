@@ -201,7 +201,7 @@ Thank you for being here. I hope you like all my projects and other stuff. I am 
   </a>
   <a href="https://github.com/iZackk26">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=iZackk26&hide_progress=true&theme=nord"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=iZackk26&hide_progress=true&theme=nord&langs_count=10"
       alt="My Language stats"
       height="150"
     />
