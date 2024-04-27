@@ -13,10 +13,6 @@ Thank you for being here. I hope you like all my projects and other stuff. I am 
 - I'm available at this mail [izackk26@icloud.com](mailto:izackk26@icloud.com) fell free, discussions or potential collaborations fell free to contact with me.
 
 
-<br />
-<br />
-<br />
-
 <h3 align="left" style="margin-top: 3cm;">
   <img align="center" alt="Github" width="20" style="vertical-align: middle; margin-right: 10px;" src="https://static-00.iconduck.com/assets.00/github-icon-512x512-tt41tgu3.png"/>
   Github Stats
