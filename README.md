@@ -6,7 +6,7 @@ Thank you for being here. I hope you like all my projects and other stuff. I am 
 - I'm currently learning IA, Machine Learning and neuronal networks
 - I'm currently learning Rust, Go and a little bit of Web Design
 - I love to learn new things such as new programming languages, new trends, and I love to build computers and buy expensive stuff (Not very common).
-- Feel free to visit my WebPage that is in process [WebPage Here!](https://izackk26.github.io/webPortfolio/)
+- Feel free to visit my WebPage that is in process [WebPage Here!](https://www.izackk.com)
 
 ## Contact Information
 
