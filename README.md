@@ -14,7 +14,7 @@ Thank you for being here. I hope you like all my projects and other stuff. I am 
 
 
 <h3 align="left" style="margin-top: 3cm;">
-  <img align="center" alt="Github" width="20" style="vertical-align: middle; margin-right: 10px;" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"/>
+  <img align="center" alt="Github" width="20" style="vertical-align: middle; margin-right: 10px; border-radius: 50%;" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-github-1.png"/>
   Github Stats
 </h3>
 
