@@ -1,37 +1,31 @@
-# Hi, I'm iZack
+# Isaac Ramírez R
 
-Thank you for being here. I hope you like all my projects and other stuff. I am a Computer Science student from Costa Rica, with a deep passion for exploring new things and learning as much as I can.
+AI Engineer & Software Architect based in Costa Rica.
 
-## What am I focusing on right now?
-- I'm currently learning IA, Machine Learning and neuronal networks
-- I'm currently learning Rust, Go and a little bit of Web Design
-- I love to learn new things such as new programming languages, new trends, and I love to build computers and buy expensive stuff (Not very common).
-- Feel free to visit my WebPage that is in process [WebPage Here!](https://izackk.com)
+---
 
-## Contact Information
+## What I do
 
-- I'm available at this mail [izackk26@icloud.com](mailto:izackk26@icloud.com) fell free, discussions or potential collaborations fell free to contact with me.
+- **AI & LLMs** — Design and integration of language models into real products  
+- **Automation & Agents** — Multi-agent systems, autonomous pipelines, and workflow automation  
+- **Software Architecture** — End-to-end system design, clean architecture, and scalable infrastructure  
+- **Web Development** — Full-stack development when the use case demands it 
 
+---
 
-<h3 align="left" style="margin-top: 3cm;">
-  <img align="center" alt="Github" width="20" style="vertical-align: middle; margin-right: 10px; border-radius: 50%;" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-github-1.png"/>
-  Github Stats
-</h3>
+## Let's talk
 
-<!-- Github stats and most used languages -->
-<div align="center" style="margin-top: 3cm;"> 
+- 🌐 [izackk.com](https://izackk.com)
+- 📩 [isaac.ramirez@visione-edge.com](mailto:isaac.ramirez@visione-edge.com)
+- 💼 [linkedin.com/in/izack](https://www.linkedin.com/in/izack/) 
+
+---
+
+<div align="center">
   <a href="https://github.com/iZackk26">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=iZackk26&show_icons=true&theme=nord&hide=contribs,prs&rank_icon=github"
-      alt="My Github stats"
-      height="150"
-    />
+    <img src="https://github-readme-stats.vercel.app/api?username=iZackk26&show_icons=true&theme=nord&hide=contribs,prs&rank_icon=github" height="150" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/iZackk26">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=iZackk26&hide_progress=true&theme=nord&langs_count=10"
-      alt="My Language stats"
-      height="150"
-    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iZackk26&hide_progress=true&theme=nord&langs_count=10" height="150" alt="Top Languages" />
   </a>
 </div>
