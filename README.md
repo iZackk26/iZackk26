@@ -13,7 +13,7 @@ AI Engineer & Software Architect based in Costa Rica.
 
 ---
 
-## Let's talk
+## Connect
 
 - 🌐 [izackk.com](https://izackk.com)
 - 📩 [isaac.ramirez@visione-edge.com](mailto:isaac.ramirez@visione-edge.com)
