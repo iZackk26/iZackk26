@@ -21,11 +21,3 @@ AI Engineer & Software Architect based in Costa Rica.
 
 ---
 
-<div align="center">
-  <a href="https://github.com/iZackk26">
-    <img src="https://github-readme-stats.vercel.app/api?username=iZackk26&show_icons=true&theme=nord&hide=contribs,prs&rank_icon=github" height="150" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/iZackk26">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iZackk26&hide_progress=true&theme=nord&langs_count=10" height="150" alt="Top Languages" />
-  </a>
-</div>
